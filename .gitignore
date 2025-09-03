@@ -1,0 +1,19 @@
+# Python virtual environment
+env/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Data and results
+dataset/
+chroma_db/
+retrieval_results/
+evaluation_results/
+indices/
+dense_index.flex
+
+# Profiler and logs
+*.prof
